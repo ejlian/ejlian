@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=200&section=header&text=Hello%20Guys👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2563EB&fontAlign=50&fontAlignY=40&height=150&section=header&text=Hello!%20I'm%20Edd%20Julian&fontSize=45&font=Fira%20Code&animation=fadeIn" alt="Hello! I'm Edd Julian"/>
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=2000&color=14B8A6&center=true&vCenter=true&width=800&lines=Passionate+about+building+web+solutions;Creating+modern+%26+creative+apps;Focused+on+making+life+easier+%26+enjoyable;Always+curious+%26+innovating" alt="Typing SVG"/>
