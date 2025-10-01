@@ -18,7 +18,4 @@ I’m passionate about building web solutions that make life easier and more enj
 🌱 Currently diving deeper into **Next.js, React, and TypeScript**.
 🚀 Always excited to learn, build, and collaborate.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=150&section=footer"/>
-</p>
 
