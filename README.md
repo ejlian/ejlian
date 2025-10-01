@@ -10,8 +10,7 @@
 
 ---
 
-✨ *I’m Edd Julian, a 4th‑year Computer Science student passionate about building web solutions that make life easier and more enjoyable.*
-🚀 Always excited to learn, build, and collaborate.
+ *I’m passionate about building web solutions that make life easier and more enjoyable.
 
 
 ## 🛠️ Tech Stack
