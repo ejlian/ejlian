@@ -1,7 +1,6 @@
-# Hello Guys 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=200&section=header&text=Edd%20Julian&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=200&section=header&text=Hello%20Guys&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="header"/>
 </p>
 
 <p align="center">
