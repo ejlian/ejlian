@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 Hi there 👋<br><br>I’m passionate about building web solutions that make life easier and more enjoyable.
 
 
