@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=200&section=header&text=Hello%20Guys&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=200&section=header&text=Hello%20Guys👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="header"/>
 </p>
 
 <p align="center">
@@ -12,6 +12,3 @@
 ✨ *I’m Edd Julian, a 4th‑year Computer Science student passionate about building web solutions that make life easier and more enjoyable.*
 🚀 Always excited to learn, build, and collaborate.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=150&section=footer"/>
-</p>
